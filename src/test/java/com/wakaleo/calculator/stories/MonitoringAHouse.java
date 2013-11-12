@@ -6,5 +6,5 @@ import net.thucydides.jbehave.ThucydidesJUnitStory;
  * Test runner for filtering_search_results.story
  * Used mainly for debugging.
  */
-public class CalculatingSums extends ThucydidesJUnitStory {
+public class MonitoringAHouse extends ThucydidesJUnitStory {
 }
